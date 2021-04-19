@@ -1,9 +1,9 @@
 {
-  "name": "react-native-new-template",
+  "name": "react-native-clean-template",
   "version": "0.0.5",
-  "description": "React Native Template",
-  "repository": "git@github.com:Esemesek/react-native-new-template.git",
-  "author": "Kacper Wiszczuk <kacperwiszczuk@gmail.com>",
+  "description": "React Native Clean template ",
+  "repository": "git@github.com:nikita3331/reactNativeTemplate.git",
+  "author": "Mykyta Brazhynskyy <mykyta.brazhynskyy@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "replace-in-file": "^6.2.0"
